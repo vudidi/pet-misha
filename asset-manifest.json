@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.469281e2.css",
+    "main.js": "/static/js/main.f6653536.js",
+    "static/js/787.71595c84.chunk.js": "/static/js/787.71595c84.chunk.js",
+    "static/media/mikhail-nazarushkin-bebop-05.jpg": "/static/media/mikhail-nazarushkin-bebop-05.7e7513050d000b8a794f.jpg",
+    "static/media/map.jpg": "/static/media/map.2ddbd2a06a20d1bb7e3e.jpg",
+    "static/media/promo.jpg": "/static/media/promo.403af02730dc4cd42a3d.jpg",
+    "static/media/Inter-Bold.woff?v=3.19": "/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-SemiBold.woff?v=3.19": "/static/media/Inter-SemiBold.cca62d21c8c555c392e5.woff",
+    "static/media/Inter-ExtraBold.woff?v=3.19": "/static/media/Inter-ExtraBold.d0fa3bb2b7c9063dc594.woff",
+    "static/media/Inter-Medium.woff?v=3.19": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-ExtraLight.woff?v=3.19": "/static/media/Inter-ExtraLight.c4248615291a9e8f1fb7.woff",
+    "static/media/Inter-Light.woff?v=3.19": "/static/media/Inter-Light.994e34451cc19ede31d3.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Thin.woff?v=3.19": "/static/media/Inter-Thin.29b9c616a95a912abf73.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2?v=3.19": "/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-ExtraBold.woff2?v=3.19": "/static/media/Inter-ExtraBold.cbe0ae49c52c920fd563.woff2",
+    "static/media/Inter-Medium.woff2?v=3.19": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-SemiBold.woff2?v=3.19": "/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
+    "static/media/Inter-Light.woff2?v=3.19": "/static/media/Inter-Light.2d5198822ab091ce4305.woff2",
+    "static/media/Inter-ExtraLight.woff2?v=3.19": "/static/media/Inter-ExtraLight.72505e6a122c6acd5471.woff2",
+    "static/media/blood-icon.png": "/static/media/blood-icon.572804c410a66dc96238.png",
+    "static/media/Inter-Black.woff2?v=3.19": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Thin.woff2?v=3.19": "/static/media/Inter-Thin.fff2a096db014f6239d4.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/fox.jpg": "/static/media/fox.e69025c1f815f6c146d7.jpg",
+    "static/media/heart-icon.png": "/static/media/heart-icon.b428db8bb079a90acd8c.png",
+    "static/media/leather-icon.png": "/static/media/leather-icon.58ab1ed2fa958d52ac3a.png",
+    "static/media/loupe.png": "/static/media/loupe.36c1be09dec903519f2d.png",
+    "static/media/castle_38413.png": "/static/media/castle_38413.2e5ddf4a8d42f8ded6e3.png",
+    "index.html": "/index.html",
+    "main.469281e2.css.map": "/static/css/main.469281e2.css.map",
+    "main.f6653536.js.map": "/static/js/main.f6653536.js.map",
+    "787.71595c84.chunk.js.map": "/static/js/787.71595c84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469281e2.css",
+    "static/js/main.f6653536.js"
+  ]
+}
