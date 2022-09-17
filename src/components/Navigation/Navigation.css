@@ -1,0 +1,27 @@
+.navigation {
+  width: 100%;
+  padding: 26px 0 24px;
+}
+
+.navigation-items {
+  margin: 0 0 0 14px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.navigation__link {
+  text-decoration: none;
+  color: #fff;
+  padding: 6px 16px;
+  background-color: #1c4d36;
+  border: 1px solid #e0dedd;
+  cursor: pointer;
+  margin: 0 6px;
+  transition: 0.5s ease;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.navigation__link:hover {
+  background-color: #a6360a;
+}

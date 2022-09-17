@@ -1,0 +1,107 @@
+.user-info {
+  margin: 20px 10px 120px;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-info__greeting {
+  max-width: 200px;
+  margin: 0;
+  font-size: 20px;
+  color: #e0dedd;
+  cursor: default;
+  align-self: center;
+}
+
+.user-info__avatar {
+  margin: 20px 0 50px;
+  background-image: url('../../styles/images/mikhail-nazarushkin-bebop-05.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  align-self: center;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.user-info__stats {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  color: #e0dedd;
+}
+
+.user-info__stat {
+  padding: 6px 12px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #262425;
+  font-size: 18px;
+  line-height: 26px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.user-info__stat-set {
+  display: flex;
+}
+
+.user-info__stat-name {
+  margin: 0 0 0 6px;
+  cursor: default;
+  text-align: center;
+}
+
+.user-info__stat-icon {
+  width: 26px;
+  height: 26px;
+  background-size: 100%;
+}
+
+.user-info__stat-icon_type_leather {
+  background-image: url('../../styles/images/leather-icon.png');
+}
+
+.user-info__stat-icon_type_bone {
+  background-image: url('../../styles/images/bone-icon.png');
+}
+
+.user-info__stat-icon_type_heart {
+  background-image: url('../../styles/images/heart-icon.png');
+}
+
+.user-info__stat-icon_type_blood {
+  background-image: url('../../styles/images/blood-icon.png');
+}
+
+.user-info__stat-count {
+  cursor: default;
+}
+
+@media screen and (max-width: 1600px) {
+  .user-info__stat {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1320px) {
+  .user-info__greeting {
+    font-size: 18px;
+    max-width: 140px;
+  }
+
+  .user-info__avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .user-info__stats {
+    width: 90%;
+  }
+
+  .user-info__stat {
+    font-size: 14px;
+  }
+}

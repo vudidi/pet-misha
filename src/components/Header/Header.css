@@ -1,0 +1,90 @@
+.header {
+  background-color: #1c4d36;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__logo {
+  margin: 10px 0 10px 250px;
+  display: flex;
+}
+
+.header__image {
+  background: center no-repeat url('../../styles/images/castle_38413.png');
+  background-size: cover;
+  width: 102px;
+  height: 102px;
+  margin: 0 20px 0 0;
+}
+
+.header__title {
+  margin: 0;
+  color: #a6360a;
+  line-height: 32px;
+  align-self: center;
+}
+
+.header__navigation {
+  margin: 30px 250px 30px 0;
+  display: flex;
+}
+
+.header__user-name {
+  margin: 0;
+  padding: 0 12px 0 0;
+  border-right: 1px solid #fff;
+  color: #fff;
+  align-self: center;
+  font-size: 18px;
+  cursor: default;
+}
+
+.header__account-link {
+  margin: 0;
+  padding: 0 12px 0 12px;
+  border-right: 1px solid #fff;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  align-self: center;
+  transition: 0.5s ease;
+}
+
+.header__account-link:hover {
+  color: #a6360a;
+}
+
+.header__logout-btn {
+  margin: 0;
+  padding: 0 0 0 12px;
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.header__logout-btn:hover {
+  color: #a6360a;
+}
+
+@media screen and (max-width: 1500px) {
+  .header__logo {
+    margin: 10px 0 10px 150px;
+  }
+
+  .header__navigation {
+    margin: 30px 150px 30px 0;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .header__logo {
+    margin: 10px 0 10px 100px;
+  }
+
+  .header__navigation {
+    margin: 30px 100px 30px 0;
+  }
+}

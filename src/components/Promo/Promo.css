@@ -1,0 +1,7 @@
+.promo {
+  background-image: url('../../styles/images/promo.jpg');
+  height: 250px;
+  background-position: 50% 80%;
+  background-size: cover;
+  border-radius: 8px;
+}

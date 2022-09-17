@@ -1,0 +1,52 @@
+.card {
+  margin-bottom: 30px;
+  background-color: #94908d;
+  display: flex;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card__image {
+  margin: 15px 15px;
+  background-image: url('../../styles/images/fox.jpg');
+  background-size: cover;
+  background-position: center;
+  max-width: 136px;
+  width: 100%;
+  height: 174px;
+  align-self: center;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 15px 15px;
+}
+
+.card__text {
+}
+
+.card__title {
+}
+
+.card__content {
+  font-style: italic;
+}
+
+.card__link {
+  text-decoration: none;
+  color: #fff;
+  padding: 6px 16px;
+  margin: 0;
+  background-color: #1c4d36;
+  border: 1px solid #e0dedd;
+  cursor: pointer;
+  transition: 0.5s ease;
+  align-self: flex-end;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card__link:hover {
+  background-color: #a6360a;
+}
