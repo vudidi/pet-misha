@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet-misha/static/css/main.fed9cc4d.css",
-    "main.js": "/pet-misha/static/js/main.383cfa5e.js",
+    "main.js": "/pet-misha/static/js/main.a775f51b.js",
     "static/js/787.71595c84.chunk.js": "/pet-misha/static/js/787.71595c84.chunk.js",
     "static/media/mikhail-nazarushkin-bebop-05.jpg": "/pet-misha/static/media/mikhail-nazarushkin-bebop-05.7e7513050d000b8a794f.jpg",
     "static/media/map.jpg": "/pet-misha/static/media/map.2ddbd2a06a20d1bb7e3e.jpg",
@@ -32,11 +32,11 @@
     "static/media/castle_38413.png": "/pet-misha/static/media/castle_38413.2e5ddf4a8d42f8ded6e3.png",
     "index.html": "/pet-misha/index.html",
     "main.fed9cc4d.css.map": "/pet-misha/static/css/main.fed9cc4d.css.map",
-    "main.383cfa5e.js.map": "/pet-misha/static/js/main.383cfa5e.js.map",
+    "main.a775f51b.js.map": "/pet-misha/static/js/main.a775f51b.js.map",
     "787.71595c84.chunk.js.map": "/pet-misha/static/js/787.71595c84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fed9cc4d.css",
-    "static/js/main.383cfa5e.js"
+    "static/js/main.a775f51b.js"
   ]
 }
